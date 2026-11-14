@@ -1,0 +1,12 @@
+{
+  "n_users": 12000,
+  "days": 21,
+  "event_days": 14,
+  "seed": 20261114,
+  "reference_price": 4.99,
+  "control_price": 4.99,
+  "treatment_price": 3.99,
+  "organic_price": 2.99,
+  "max_daily_milestones": 2,
+  "completion_milestones": 8
+}

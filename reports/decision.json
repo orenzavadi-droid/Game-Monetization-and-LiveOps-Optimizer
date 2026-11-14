@@ -1,0 +1,9 @@
+{
+  "decision": "SIMULATED HOLD",
+  "gates": {
+    "primary_revenue_lower_ci_positive": false,
+    "d7_guardrail_lower_ci_at_least_minus_1_5pp": true,
+    "event_completion_lower_ci_at_least_minus_2pp": true
+  },
+  "interpretation": "Training exercise only. Never deploy from synthetic evidence."
+}
