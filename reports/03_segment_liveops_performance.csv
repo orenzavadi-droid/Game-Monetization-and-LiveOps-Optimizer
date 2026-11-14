@@ -1,0 +1,7 @@
+variant,persona,assigned_users,rpu_d14,payer_conversion,d7_return,event_completion
+Control,Casual,3034,0.4226,0.0939,0.3388,0.0517
+Control,Enthusiast,884,2.2176,0.4242,0.6335,0.7873
+Control,Regular,2082,1.1568,0.2406,0.5202,0.4486
+Discount,Casual,2914,0.4059,0.1067,0.3439,0.0559
+Discount,Enthusiast,957,2.1696,0.4963,0.6353,0.7795
+Discount,Regular,2129,1.0146,0.2494,0.5092,0.4218

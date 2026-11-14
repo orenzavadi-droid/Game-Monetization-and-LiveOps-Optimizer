@@ -1,0 +1,3 @@
+variant,assigned_users,exposed_users,paying_users,bundle_buyers,payer_conversion_itt,bundle_conversion_itt
+Control,6000,6000,1161,864,0.1935,0.144
+Discount,6000,6000,1317,1000,0.2195,0.1667
